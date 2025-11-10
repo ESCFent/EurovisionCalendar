@@ -7,6 +7,6 @@ Eurovisionworld already offers their calendar in .ics format, but it has some fo
 _Here's a comparison of the two calendars.  |  🔴 Eurovisionworld - 🟡 This one_
 
 ## Add it now!
-[`https://escfent.github.io/eurovisioncalendar/index.ics`](https://escfent.github.io/eurovisioncalendar/index.ics)
+[`https://escfent.github.io/EurovisionCalendar/index.ics`](https://escfent.github.io/EurovisionCalendar/index.ics)
 
-[Add to Google Calendar](https://www.google.com/calendar/render?cid=https%3A%2F%2Fescfent.github.io%2Feurovisioncalendar%2Findex.ics) - [Add to Apple Calendar](webcal://escfent.github.io/eurovisioncalendar/index.ics) - [Add to Office 365](https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fescfent.github.io%2Feurovisioncalendar%2Findex.ics&name=Eurovision%20Calendar%20(powered%20by%20Eurovisionworld.com)) - [Add to Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fescfent.github.io%2Feurovisioncalendar%2Findex.ics&name=Eurovision%20Calendar%20(powered%20by%20Eurovisionworld.com))
+[Add to Google Calendar](https://www.google.com/calendar/render?cid=https%3A%2F%2Fescfent.github.io%2FEurovisionCalendar%2Findex.ics) - [Add to Apple Calendar](webcal://escfent.github.io/EurovisionCalendar/index.ics) - [Add to Office 365](https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fescfent.github.io%2FEurovisionCalendar%2Findex.ics&name=Eurovision%20Calendar%20(powered%20by%20Eurovisionworld.com)) - [Add to Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fescfent.github.io%2FEurovisionCalendar%2Findex.ics&name=Eurovision%20Calendar%20(powered%20by%20Eurovisionworld.com))
