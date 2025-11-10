@@ -1,0 +1,35 @@
+name: Generate calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Install Bun
+      uses: oven-sh/setup-bun@v2
+
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.PAT }}
+
+    - name: Generate calendar
+      shell: bash
+      working-directory: ./
+      run: |
+        bun install
+        bun generate.mjs
+
+    - name: Commit
+      uses: stefanzweifel/git-auto-commit-action@v6
+      with:
+        commit_message: "Auto-updated calendar"
+        file_pattern: "docs/"
+        commit_user_name: github-actions[bot]
+        commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+        commit_author: ESCFent <escfent@gmail.com>
