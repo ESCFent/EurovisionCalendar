@@ -14,7 +14,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:1393@eurovisioncalendar
 SUMMARY:Eurovision 2026: Host city announcement
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011931Z
 DTSTART:20250820T061500Z
 DTEND:20250820T061500Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1419@eurovisioncalendar
 SUMMARY:🇪🇸 Spain | Artists for Benidorm Fest announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011931Z
 DTSTART:20251009T144500Z
 DTEND:20251009T144500Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/s
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1437@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Artists for Festivali i Këngës announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011931Z
 DTSTART:20251013T200000Z
 DTEND:20251013T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📅 More info a
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1440@eurovisioncalendar
 SUMMARY:🇲🇪 Montenegro | Artists for Montesong announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251014T074500Z
 DTEND:20251014T074500Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/m
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1444@eurovisioncalendar
 SUMMARY:🇱🇺 Luxembourg | Artists for Luxembourg Song Contest announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251030T055000Z
 DTEND:20251030T055000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
@@ -135,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1445@eurovisioncalendar
 SUMMARY:🇪🇪 Estonia | Artists for Eesti Laul announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251031T170000Z
 DTEND:20251031T170000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
@@ -159,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1451@eurovisioncalendar
 SUMMARY:🇨🇾 Cyprus | Artist announcement
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251106T123000Z
 DTEND:20251106T123000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/c
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1408@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Artists for Supernova announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251120T063000Z
 DTEND:20251120T063000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/l
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1459@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Artists for Eurovizija.LT announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251125T130000Z
 DTEND:20251125T130000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/l
@@ -225,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1458@eurovisioncalendar
 SUMMARY:🇲🇪 Montenegro | Songs for Montesong released
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251127T110000Z
 DTEND:20251127T110000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/m
@@ -249,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1457@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Artists for Sanremo announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251130T123000Z
 DTEND:20251130T123000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/i
@@ -273,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1466@eurovisioncalendar
 SUMMARY:🇲🇹 Malta | Artists for MESC announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251201T171500Z
 DTEND:20251201T171500Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/m
@@ -295,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1438@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Songs for Festivali i Këngës released
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251201T190000Z
 DTEND:20251201T190000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
@@ -320,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1460@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Artists for Melodifestivalen announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251202T100000Z
 DTEND:20251202T100000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/s
@@ -344,7 +344,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1414@eurovisioncalendar
 SUMMARY:🇺🇦 Ukraine | Artists for Vidbir announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251203T080000Z
 DTEND:20251203T080000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/u
@@ -368,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1468@eurovisioncalendar
 SUMMARY:🇭🇷 Croatia | Artists for Dora announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251203T110000Z
 DTEND:20251203T110000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/c
@@ -391,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1471@eurovisioncalendar
 SUMMARY:🇷🇸 Serbia | Artists for Pesma za Evroviziju announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251203T120000Z
 DTEND:20251203T120000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/s
@@ -415,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1453@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Songs for Supernova released
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251204T065000Z
 DTEND:20251204T065000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/l
@@ -439,7 +439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1472@eurovisioncalendar
 SUMMARY:🇪🇪 Estonia | Songs for Eesti Laul released
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251204T180000Z
 DTEND:20251204T180000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
@@ -463,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1473@eurovisioncalendar
 SUMMARY:EBU General Assembly
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251204T200000Z
 DTEND:20251204T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📅 More info a
@@ -483,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1452@eurovisioncalendar
 SUMMARY:🇱🇺 Luxembourg | Songs for Luxembourg Song Contest released
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251212T200000Z
 DTEND:20251212T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -505,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1384@eurovisioncalendar
 SUMMARY:Junior Eurovision 2025
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251213T160000Z
 DTEND:20251213T160000Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/junior
@@ -523,7 +523,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1441@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Festivali i Këngës Semi-final 1
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251217T200000Z
 DTEND:20251217T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -555,7 +555,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1442@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Festivali i Këngës Semi-final 2
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251218T200000Z
 DTEND:20251218T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -587,7 +587,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1443@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Festivali i Këngës Nostalgia Night
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251219T200000Z
 DTEND:20251219T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -619,7 +619,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1403@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Festivali i Këngës #64 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251220T200000Z
 DTEND:20251220T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -650,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1412@eurovisioncalendar
 SUMMARY:🇲🇪 Montenegro | Montesong 2025 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20251221T200000Z
 DTEND:20251221T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -686,7 +686,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1436@eurovisioncalendar
 SUMMARY:🇫🇮 Finland | Artists for UMK announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260114T200000Z
 DTEND:20260114T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -720,7 +720,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1448@eurovisioncalendar
 SUMMARY:🇵🇱 Poland | Artists for Polskie Kwalifikacje announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260114T200000Z
 DTEND:20260114T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -739,7 +739,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1449@eurovisioncalendar
 SUMMARY:🇲🇹 Malta | MESC Semi-final
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260115T200000Z
 DTEND:20260115T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -767,7 +767,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1415@eurovisioncalendar
 SUMMARY:🇺🇦 Ukraine | Online wildcard artist for Vidbir announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260115T200000Z
 DTEND:20260115T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -787,7 +787,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1394@eurovisioncalendar
 SUMMARY:🇲🇹 Malta | MESC 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260117T200000Z
 DTEND:20260117T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -815,7 +815,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1446@eurovisioncalendar
 SUMMARY:🇲🇩 Moldova | Moldova decides (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260117T200000Z
 DTEND:20260117T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -844,7 +844,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1454@eurovisioncalendar
 SUMMARY:🇳🇴 Norway | Artists for Melodi Grand Prix announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260119T200000Z
 DTEND:20260119T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -865,7 +865,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1474@eurovisioncalendar
 SUMMARY:🇩🇰 Denmark | Artists for Melodi Grand Prix announced
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260122T200000Z
 DTEND:20260122T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -886,7 +886,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1461@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 1
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260124T190000Z
 DTEND:20260124T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -923,7 +923,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1402@eurovisioncalendar
 SUMMARY:🇱🇺 Luxembourg | Luxembourg Song Contest 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260124T200000Z
 DTEND:20260124T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -953,7 +953,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1455@eurovisioncalendar
 SUMMARY:🇳🇴 Norway | Songs for Melodi Grand Prix released
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260126T200000Z
 DTEND:20260126T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -974,7 +974,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1462@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 2
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260131T190000Z
 DTEND:20260131T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1011,7 +1011,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1427@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 1
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260131T190000Z
 DTEND:20260131T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1045,7 +1045,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1405@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Supernova Semi-final 1
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260131T200000Z
 DTEND:20260131T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1080,7 +1080,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1463@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 3
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260207T190000Z
 DTEND:20260207T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1117,7 +1117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1428@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 2
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260207T190000Z
 DTEND:20260207T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1151,7 +1151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1406@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Supernova Semi-final 2
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260207T200000Z
 DTEND:20260207T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1186,7 +1186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1464@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 4
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260214T190000Z
 DTEND:20260214T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1223,7 +1223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1429@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 3
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260214T190000Z
 DTEND:20260214T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1257,7 +1257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1392@eurovisioncalendar
 SUMMARY:🇩🇰 Denmark | Melodi Grand Prix 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260214T190000Z
 DTEND:20260214T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1289,7 +1289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1433@eurovisioncalendar
 SUMMARY:🇪🇪 Estonia | Eesti Laul 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260214T200000Z
 DTEND:20260214T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1322,7 +1322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1407@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Supernova 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260214T200000Z
 DTEND:20260214T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1356,7 +1356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1447@eurovisioncalendar
 SUMMARY:🇵🇱 Poland | Polskie Kwalifikacje 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260214T200000Z
 DTEND:20260214T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1384,7 +1384,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1409@eurovisioncalendar
 SUMMARY:🇦🇹 Austria | Wer singt für Österreich? (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260220T200000Z
 DTEND:20260220T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -1406,7 +1406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1465@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 5
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260221T190000Z
 DTEND:20260221T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1443,7 +1443,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1430@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 4
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260221T190000Z
 DTEND:20260221T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1477,7 +1477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1421@eurovisioncalendar
 SUMMARY:🇵🇹 Portugal | Festival da Canção Semi-final 1
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260221T200000Z
 DTEND:20260221T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1513,7 +1513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1397@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo Night 1
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260224T200000Z
 DTEND:20260224T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1547,7 +1547,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1398@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo Night 2
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260225T200000Z
 DTEND:20260225T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1581,7 +1581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1399@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo Night 3
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260226T200000Z
 DTEND:20260226T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1615,7 +1615,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1410@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260227T170000Z
 DTEND:20260227T170000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1651,7 +1651,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1400@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo Night 4
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260227T200000Z
 DTEND:20260227T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1685,7 +1685,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1388@eurovisioncalendar
 SUMMARY:🇫🇮 Finland | Uuden Musiikin Kilpailu 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260228T190000Z
 DTEND:20260228T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1717,7 +1717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1431@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 5
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260228T190000Z
 DTEND:20260228T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1751,7 +1751,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1401@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260228T200000Z
 DTEND:20260228T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1785,7 +1785,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1404@eurovisioncalendar
 SUMMARY:🇳🇴 Norway | Melodi Grand Prix 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260228T200000Z
 DTEND:20260228T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1818,7 +1818,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1422@eurovisioncalendar
 SUMMARY:🇵🇹 Portugal | Festival da Canção Semi-final 2
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260228T200000Z
 DTEND:20260228T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1854,7 +1854,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1417@eurovisioncalendar
 SUMMARY:🇸🇲 San Marino | San Marino Song Contest Semi-final 1
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260303T200000Z
 DTEND:20260303T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1883,7 +1883,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1418@eurovisioncalendar
 SUMMARY:🇸🇲 San Marino | San Marino Song Contest Semi-final 2
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260304T200000Z
 DTEND:20260304T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1912,7 +1912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1390@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260307T190000Z
 DTEND:20260307T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1945,7 +1945,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1423@eurovisioncalendar
 SUMMARY:🇵🇹 Portugal | Festival da Canção 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260307T200000Z
 DTEND:20260307T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1981,7 +1981,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1416@eurovisioncalendar
 SUMMARY:🇸🇲 San Marino | San Marino Song Contest 2026 (FINAL)
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260307T200000Z
 DTEND:20260307T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -2010,7 +2010,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1385@eurovisioncalendar
 SUMMARY:Eurovision Song Contest 2026 Semi-final 1
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260512T190000Z
 DTEND:20260512T190000Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
@@ -2028,7 +2028,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1386@eurovisioncalendar
 SUMMARY:Eurovision Song Contest 2026 Semi-final 2
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260514T190000Z
 DTEND:20260514T190000Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
@@ -2046,7 +2046,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1387@eurovisioncalendar
 SUMMARY:Eurovision Song Contest 2026 Grand Final
-DTSTAMP:20251206T010908Z
+DTSTAMP:20251207T011932Z
 DTSTART:20260516T190000Z
 DTEND:20260516T190000Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
