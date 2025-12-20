@@ -14,7 +14,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:1393@eurovisioncalendar
 SUMMARY:Eurovision 2026: Host city announcement
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20250820T061500Z
 DTEND:20250820T061500Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1419@eurovisioncalendar
 SUMMARY:🇪🇸 Spain | Artists for Benidorm Fest announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251009T144500Z
 DTEND:20251009T144500Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/s
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1437@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Artists for Festivali i Këngës announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251013T200000Z
 DTEND:20251013T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📅 More info a
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1440@eurovisioncalendar
 SUMMARY:🇲🇪 Montenegro | Artists for Montesong announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251014T074500Z
 DTEND:20251014T074500Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/m
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1444@eurovisioncalendar
 SUMMARY:🇱🇺 Luxembourg | Artists for Luxembourg Song Contest announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251030T055000Z
 DTEND:20251030T055000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
@@ -135,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1445@eurovisioncalendar
 SUMMARY:🇪🇪 Estonia | Artists for Eesti Laul announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251031T170000Z
 DTEND:20251031T170000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
@@ -159,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1451@eurovisioncalendar
 SUMMARY:🇨🇾 Cyprus | Artist announcement
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251106T123000Z
 DTEND:20251106T123000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/c
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1408@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Artists for Supernova announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251120T063000Z
 DTEND:20251120T063000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/l
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1459@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Artists for Eurovizija.LT announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251125T130000Z
 DTEND:20251125T130000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/l
@@ -225,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1458@eurovisioncalendar
 SUMMARY:🇲🇪 Montenegro | Songs for Montesong released
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251127T110000Z
 DTEND:20251127T110000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/m
@@ -249,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1457@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Artists for Sanremo announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251130T123000Z
 DTEND:20251130T123000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/i
@@ -273,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1466@eurovisioncalendar
 SUMMARY:🇲🇹 Malta | Artists for MESC announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251201T171500Z
 DTEND:20251201T171500Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/m
@@ -295,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1438@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Songs for Festivali i Këngës released
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251201T190000Z
 DTEND:20251201T190000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
@@ -320,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1460@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Artists for Melodifestivalen announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251202T100000Z
 DTEND:20251202T100000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/s
@@ -344,7 +344,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1414@eurovisioncalendar
 SUMMARY:🇺🇦 Ukraine | Artists for Vidbir announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251203T080000Z
 DTEND:20251203T080000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/u
@@ -368,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1468@eurovisioncalendar
 SUMMARY:🇭🇷 Croatia | Artists for Dora announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251203T110000Z
 DTEND:20251203T110000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/c
@@ -391,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1471@eurovisioncalendar
 SUMMARY:🇷🇸 Serbia | Artists for Pesma za Evroviziju announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251203T120000Z
 DTEND:20251203T120000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/s
@@ -415,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1453@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Songs for Supernova released
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251204T065000Z
 DTEND:20251204T065000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/l
@@ -439,7 +439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1472@eurovisioncalendar
 SUMMARY:🇪🇪 Estonia | Songs for Eesti Laul released
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251204T180000Z
 DTEND:20251204T180000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
@@ -463,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1473@eurovisioncalendar
 SUMMARY:EBU General Assembly
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251204T200000Z
 DTEND:20251204T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📅 More info a
@@ -483,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1452@eurovisioncalendar
 SUMMARY:🇱🇺 Luxembourg | Songs for Luxembourg Song Contest released
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251211T080000Z
 DTEND:20251211T080000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/l
@@ -509,7 +509,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1384@eurovisioncalendar
 SUMMARY:Junior Eurovision 2025
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251213T160000Z
 DTEND:20251213T160000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/f
@@ -532,7 +532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1478@eurovisioncalendar
 SUMMARY:🇦🇹 Austria | Artists for Wer singt für Österreich announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251215T070000Z
 DTEND:20251215T070000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
@@ -557,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1456@eurovisioncalendar
 SUMMARY:Countries for Eurovision 2026 announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251215T110000Z
 DTEND:20251215T110000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/3
@@ -580,7 +580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1477@eurovisioncalendar
 SUMMARY:🇲🇩 Moldova | Selecția Națională Auditions
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251216T090000Z
 DTEND:20251216T090000Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/nation
@@ -599,7 +599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1480@eurovisioncalendar
 SUMMARY:🇲🇩 Moldova | Finalists for Selecția Națională announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251217T100000Z
 DTEND:20251217T100000Z
 DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/m
@@ -623,64 +623,66 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1441@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Festivali i Këngës Semi-final 1
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251217T200000Z
 DTEND:20251217T200000Z
-DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/nation
-	al/albania/festivali-i-kenges-64-2026#semi-final-1
-URL:https://eurovisionworld.com/national/albania/festivali-i-kenges-64-2026
-	#semi-final-1
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
+	lbania-2026-last-finalists-for-festivali-i-kenges-revealed\nℹ️ More info ab
+	out this show: https://eurovisionworld.com/national/albania/festivali-i-ke
+	nges-64-2026#semi-final-1
+URL:https://eurovisionworld.com/esc/albania-2026-last-finalists-for-festiva
+	li-i-kenges-revealed
 LOCATION:Albania
 CATEGORIES:Eurovision
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>ℹ️ More info abou
-	t this show: <a href="https://eurovisionworld.com/national/albania/festiva
-	li-i-kenges-64-2026#semi-final-1" target="_blank">https://eurovisionworld.
-	com/national/albania/festivali-i-kenges-64-2026#semi-final-1</a></p></body
-	></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/albania-2026-last-f
+	inalists-for-festivali-i-kenges-revealed" target="_blank">https://eurovisi
+	onworld.com/esc/albania-2026-last-finalists-for-festivali-i-kenges-reveale
+	d</a><br>ℹ️ More info about this show: <a href="https://eurovisionworld.com
+	/national/albania/festivali-i-kenges-64-2026#semi-final-1" target="_blank"
+	>https://eurovisionworld.com/national/albania/festivali-i-kenges-64-2026#s
+	emi-final-1</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1442@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Festivali i Këngës Semi-final 2
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251218T200000Z
 DTEND:20251218T200000Z
-DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nI1Skvsz
-	tUow\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent L
-	ive:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps:/
-	/twitch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionw
-	orld.com/national/albania/festivali-i-kenges-64-2026#semi-final-2
-URL:https://eurovisionworld.com/national/albania/festivali-i-kenges-64-2026
-	#semi-final-2
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
+	lbania-2026-last-finalists-for-festivali-i-kenges-revealed\nℹ️ More info ab
+	out this show: https://eurovisionworld.com/national/albania/festivali-i-ke
+	nges-64-2026#semi-final-2
+URL:https://eurovisionworld.com/esc/albania-2026-last-finalists-for-festiva
+	li-i-kenges-revealed
 LOCATION:Albania
-CATEGORIES:Eurovision,National Final,Semi-final
+CATEGORIES:Eurovision
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
-	the broadcaster's official channel(s):<br><a href="I1SkvsztUow" target="_b
-	lank">I1SkvsztUow</a><br><br>🌐 Or, without geoblocking, on YouTube and Twi
-	tch, on ESC Fent Live:<br>https://youtube.com/@ESCFentLive (w/ all additio
-	nal feeds!)<br>https://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this
-	 show: <a href="https://eurovisionworld.com/national/albania/festivali-i-k
-	enges-64-2026#semi-final-2" target="_blank">https://eurovisionworld.com/na
-	tional/albania/festivali-i-kenges-64-2026#semi-final-2</a></p></body></htm
-	l>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/albania-2026-last-f
+	inalists-for-festivali-i-kenges-revealed" target="_blank">https://eurovisi
+	onworld.com/esc/albania-2026-last-finalists-for-festivali-i-kenges-reveale
+	d</a><br>ℹ️ More info about this show: <a href="https://eurovisionworld.com
+	/national/albania/festivali-i-kenges-64-2026#semi-final-2" target="_blank"
+	>https://eurovisionworld.com/national/albania/festivali-i-kenges-64-2026#s
+	emi-final-2</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1443@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Festivali i Këngës Nostalgia Night
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251219T200000Z
 DTEND:20251219T200000Z
-DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
-	/www.youtube.com/@RadioTelevizioniShqiptar/streams\n\n🌐 Or\, without geobl
-	ocking\, on YouTube and Twitch\, on ESC Fent Live:\nhttps://youtube.com/@E
-	SCFentLive (w/ all additional feeds!)\nhttps://twitch.tv/ESCFentLive\n\nℹ️ 
-	More info about this show: https://eurovisionworld.com/national/albania/fe
-	stivali-i-kenges-64-2026#nostalgia
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nOEeOf6L
+	qFLg\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent L
+	ive:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps:/
+	/twitch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionw
+	orld.com/national/albania/festivali-i-kenges-64-2026#nostalgia
 URL:https://eurovisionworld.com/national/albania/festivali-i-kenges-64-2026
 	#nostalgia
 LOCATION:Albania
@@ -689,20 +691,18 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
-	the broadcaster's official channel(s):<br><a href="https://www.youtube.com
-	/@RadioTelevizioniShqiptar/streams" target="_blank">https://www.youtube.co
-	m/@RadioTelevizioniShqiptar/streams</a><br><br>🌐 Or, without geoblocking, 
-	on YouTube and Twitch, on ESC Fent Live:<br>https://youtube.com/@ESCFentLi
-	ve (w/ all additional feeds!)<br>https://twitch.tv/ESCFentLive<br><br>ℹ️ Mo
-	re info about this show: <a href="https://eurovisionworld.com/national/alb
-	ania/festivali-i-kenges-64-2026#nostalgia" target="_blank">https://eurovis
-	ionworld.com/national/albania/festivali-i-kenges-64-2026#nostalgia</a></p>
-	</body></html>
+	the broadcaster's official channel(s):<br><a href="OEeOf6LqFLg" target="_b
+	lank">OEeOf6LqFLg</a><br><br>🌐 Or, without geoblocking, on YouTube and Twi
+	tch, on ESC Fent Live:<br>https://youtube.com/@ESCFentLive (w/ all additio
+	nal feeds!)<br>https://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this
+	 show: <a href="https://eurovisionworld.com/national/albania/festivali-i-k
+	enges-64-2026#nostalgia" target="_blank">https://eurovisionworld.com/natio
+	nal/albania/festivali-i-kenges-64-2026#nostalgia</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1403@eurovisioncalendar
 SUMMARY:🇦🇱 Albania | Festivali i Këngës #64 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251220T200000Z
 DTEND:20251220T200000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -732,7 +732,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1412@eurovisioncalendar
 SUMMARY:🇲🇪 Montenegro | Montesong 2025 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20251221T190000Z
 DTEND:20251221T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -765,7 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1479@eurovisioncalendar
 SUMMARY:🇬🇷 Greece | Artists for Ethnikós Telikós announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260104T170000Z
 DTEND:20260104T170000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -798,7 +798,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1475@eurovisioncalendar
 SUMMARY:Semi-final draw
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260112T200000Z
 DTEND:20260112T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n
@@ -813,41 +813,39 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1436@eurovisioncalendar
 SUMMARY:🇫🇮 Finland | Artists for UMK announced
-DTSTAMP:20251219T011457Z
-DTSTART:20260114T200000Z
-DTEND:20260114T200000Z
-DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
-	gh the broadcaster's official channel(s):\nhttps://areena.yle.fi/suorat\nh
-	ttps://apps.apple.com/app/yle-areena-tv-ja-radio/id542317657\nhttps://play
-	.google.com/store/apps/details?id=com.yle.webtv\n\n🌐 Or\, without geoblock
-	ing\, on YouTube and Twitch\, on ESC Fent Live:\nhttps://youtube.com/@ESCF
-	entLive (w/ all additional feeds!)\nhttps://twitch.tv/ESCFentLive\n\nℹ️ Mor
-	e info about this show: https://eurovisionworld.com/national/finland/umk-2
-	026
+DTSTAMP:20251220T011101Z
+DTSTART:20260114T173000Z
+DTEND:20260114T173000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/areena.yle.fi/1-76770659\nhttps://apps.apple.com/app/yle-areena-tv-ja-rad
+	io/id542317657\nhttps://play.google.com/store/apps/details?id=com.yle.webt
+	v\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Live
+	:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://tw
+	itch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionworl
+	d.com/national/finland/umk-2026
 URL:https://eurovisionworld.com/national/finland/umk-2026
 LOCATION:Finland
 CATEGORIES:Eurovision,National Final,Semi-final
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
-	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
-	er's official channel(s):<br><a href="https://areena.yle.fi/suorat" target
-	="_blank">https://areena.yle.fi/suorat</a><br><a href="https://apps.apple.
-	com/app/yle-areena-tv-ja-radio/id542317657" target="_blank">https://apps.a
-	pple.com/app/yle-areena-tv-ja-radio/id542317657</a><br><a href="https://pl
-	ay.google.com/store/apps/details?id=com.yle.webtv" target="_blank">https:/
-	/play.google.com/store/apps/details?id=com.yle.webtv</a><br><br>🌐 Or, with
-	out geoblocking, on YouTube and Twitch, on ESC Fent Live:<br>https://youtu
-	be.com/@ESCFentLive (w/ all additional feeds!)<br>https://twitch.tv/ESCFen
-	tLive<br><br>ℹ️ More info about this show: <a href="https://eurovisionworld
-	.com/national/finland/umk-2026" target="_blank">https://eurovisionworld.co
-	m/national/finland/umk-2026</a></p></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://areena.yle.fi/1
+	-76770659" target="_blank">https://areena.yle.fi/1-76770659</a><br><a href
+	="https://apps.apple.com/app/yle-areena-tv-ja-radio/id542317657" target="_
+	blank">https://apps.apple.com/app/yle-areena-tv-ja-radio/id542317657</a><b
+	r><a href="https://play.google.com/store/apps/details?id=com.yle.webtv" ta
+	rget="_blank">https://play.google.com/store/apps/details?id=com.yle.webtv<
+	/a><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent L
+	ive:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br>htt
+	ps://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href="ht
+	tps://eurovisionworld.com/national/finland/umk-2026" target="_blank">https
+	://eurovisionworld.com/national/finland/umk-2026</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1448@eurovisioncalendar
 SUMMARY:🇵🇱 Poland | Artists for Polskie Kwalifikacje announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260114T200000Z
 DTEND:20260114T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -866,7 +864,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1449@eurovisioncalendar
 SUMMARY:🇲🇹 Malta | MESC Semi-final
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260115T200000Z
 DTEND:20260115T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -894,7 +892,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1415@eurovisioncalendar
 SUMMARY:🇺🇦 Ukraine | Online wildcard artist for Vidbir announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260115T200000Z
 DTEND:20260115T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -914,7 +912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1394@eurovisioncalendar
 SUMMARY:🇲🇹 Malta | MESC 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260117T200000Z
 DTEND:20260117T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -942,7 +940,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1446@eurovisioncalendar
 SUMMARY:🇲🇩 Moldova | Selecția Națională 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260117T200000Z
 DTEND:20260117T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -972,7 +970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1454@eurovisioncalendar
 SUMMARY:🇳🇴 Norway | Artists for Melodi Grand Prix announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260119T200000Z
 DTEND:20260119T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -993,7 +991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1474@eurovisioncalendar
 SUMMARY:🇩🇰 Denmark | Artists for Melodi Grand Prix announced
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260122T200000Z
 DTEND:20260122T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -1014,7 +1012,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1461@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 1
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260124T190000Z
 DTEND:20260124T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1051,7 +1049,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1402@eurovisioncalendar
 SUMMARY:🇱🇺 Luxembourg | Luxembourg Song Contest 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260124T200000Z
 DTEND:20260124T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1081,7 +1079,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1455@eurovisioncalendar
 SUMMARY:🇳🇴 Norway | Songs for Melodi Grand Prix released
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260126T200000Z
 DTEND:20260126T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
@@ -1102,7 +1100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1462@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 2
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260131T190000Z
 DTEND:20260131T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1139,16 +1137,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1427@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 1
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260131T190000Z
 DTEND:20260131T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
-	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
-	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Li
-	ve:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://
-	twitch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionwo
-	rld.com/national/sweden/melodifestivalen-2026#heat-1
+	/www.svtplay.se/video/KRozvqk\nhttps://apps.apple.com/app/svt-play/id34354
+	4214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtplay
+	\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Live:
+	\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://twi
+	tch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionworld
+	.com/national/sweden/melodifestivalen-2026#heat-1
 URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-
 	1
 LOCATION:Sweden
@@ -1158,22 +1156,22 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
 	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
-	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
-	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
-	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
-	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
-	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay</a><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fe
-	nt Live:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br
-	>https://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href
-	="https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-1
-	" target="_blank">https://eurovisionworld.com/national/sweden/melodifestiv
-	alen-2026#heat-1</a></p></body></html>
+	video/KRozvqk" target="_blank">https://www.svtplay.se/video/KRozvqk</a><br
+	><a href="https://apps.apple.com/app/svt-play/id343544214" target="_blank"
+	>https://apps.apple.com/app/svt-play/id343544214</a><br><a href="https://p
+	lay.google.com/store/apps/details?id=se.svt.android.svtplay" target="_blan
+	k">https://play.google.com/store/apps/details?id=se.svt.android.svtplay</a
+	><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent Liv
+	e:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br>https
+	://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href="http
+	s://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-1" targ
+	et="_blank">https://eurovisionworld.com/national/sweden/melodifestivalen-2
+	026#heat-1</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1405@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Supernova Semi-final 1
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260131T200000Z
 DTEND:20260131T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1208,7 +1206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1463@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 3
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260207T190000Z
 DTEND:20260207T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1245,16 +1243,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1428@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 2
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260207T190000Z
 DTEND:20260207T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
-	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
-	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Li
-	ve:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://
-	twitch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionwo
-	rld.com/national/sweden/melodifestivalen-2026#heat-2
+	/www.svtplay.se/video/8z7ANgM\nhttps://apps.apple.com/app/svt-play/id34354
+	4214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtplay
+	\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Live:
+	\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://twi
+	tch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionworld
+	.com/national/sweden/melodifestivalen-2026#heat-2
 URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-
 	2
 LOCATION:Sweden
@@ -1264,22 +1262,22 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
 	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
-	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
-	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
-	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
-	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
-	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay</a><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fe
-	nt Live:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br
-	>https://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href
-	="https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-2
-	" target="_blank">https://eurovisionworld.com/national/sweden/melodifestiv
-	alen-2026#heat-2</a></p></body></html>
+	video/8z7ANgM" target="_blank">https://www.svtplay.se/video/8z7ANgM</a><br
+	><a href="https://apps.apple.com/app/svt-play/id343544214" target="_blank"
+	>https://apps.apple.com/app/svt-play/id343544214</a><br><a href="https://p
+	lay.google.com/store/apps/details?id=se.svt.android.svtplay" target="_blan
+	k">https://play.google.com/store/apps/details?id=se.svt.android.svtplay</a
+	><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent Liv
+	e:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br>https
+	://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href="http
+	s://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-2" targ
+	et="_blank">https://eurovisionworld.com/national/sweden/melodifestivalen-2
+	026#heat-2</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1406@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Supernova Semi-final 2
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260207T200000Z
 DTEND:20260207T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1314,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1464@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 4
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260214T190000Z
 DTEND:20260214T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1351,16 +1349,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1429@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 3
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260214T190000Z
 DTEND:20260214T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
-	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
-	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Li
-	ve:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://
-	twitch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionwo
-	rld.com/national/sweden/melodifestivalen-2026#heat-3
+	/www.svtplay.se/video/ey2oNgd\nhttps://apps.apple.com/app/svt-play/id34354
+	4214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtplay
+	\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Live:
+	\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://twi
+	tch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionworld
+	.com/national/sweden/melodifestivalen-2026#heat-3
 URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-
 	3
 LOCATION:Sweden
@@ -1370,22 +1368,22 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
 	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
-	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
-	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
-	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
-	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
-	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay</a><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fe
-	nt Live:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br
-	>https://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href
-	="https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-3
-	" target="_blank">https://eurovisionworld.com/national/sweden/melodifestiv
-	alen-2026#heat-3</a></p></body></html>
+	video/ey2oNgd" target="_blank">https://www.svtplay.se/video/ey2oNgd</a><br
+	><a href="https://apps.apple.com/app/svt-play/id343544214" target="_blank"
+	>https://apps.apple.com/app/svt-play/id343544214</a><br><a href="https://p
+	lay.google.com/store/apps/details?id=se.svt.android.svtplay" target="_blan
+	k">https://play.google.com/store/apps/details?id=se.svt.android.svtplay</a
+	><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent Liv
+	e:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br>https
+	://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href="http
+	s://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-3" targ
+	et="_blank">https://eurovisionworld.com/national/sweden/melodifestivalen-2
+	026#heat-3</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1392@eurovisioncalendar
 SUMMARY:🇩🇰 Denmark | Melodi Grand Prix 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260214T190000Z
 DTEND:20260214T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1417,7 +1415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1433@eurovisioncalendar
 SUMMARY:🇪🇪 Estonia | Eesti Laul 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260214T200000Z
 DTEND:20260214T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1450,7 +1448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1407@eurovisioncalendar
 SUMMARY:🇱🇻 Latvia | Supernova 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260214T200000Z
 DTEND:20260214T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1484,7 +1482,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1447@eurovisioncalendar
 SUMMARY:🇵🇱 Poland | Polskie Kwalifikacje 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260214T200000Z
 DTEND:20260214T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1512,7 +1510,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1409@eurovisioncalendar
 SUMMARY:🇦🇹 Austria | Wer singt für Österreich? (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260220T191500Z
 DTEND:20260220T191500Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/nation
@@ -1532,7 +1530,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1465@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT Heat 5
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260221T190000Z
 DTEND:20260221T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1569,16 +1567,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1430@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 4
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260221T190000Z
 DTEND:20260221T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
-	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
-	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Li
-	ve:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://
-	twitch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionwo
-	rld.com/national/sweden/melodifestivalen-2026#heat-4
+	/www.svtplay.se/video/jp5WJvM\nhttps://apps.apple.com/app/svt-play/id34354
+	4214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtplay
+	\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Live:
+	\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://twi
+	tch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionworld
+	.com/national/sweden/melodifestivalen-2026#heat-4
 URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-
 	4
 LOCATION:Sweden
@@ -1588,22 +1586,22 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
 	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
-	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
-	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
-	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
-	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
-	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay</a><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fe
-	nt Live:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br
-	>https://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href
-	="https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-4
-	" target="_blank">https://eurovisionworld.com/national/sweden/melodifestiv
-	alen-2026#heat-4</a></p></body></html>
+	video/jp5WJvM" target="_blank">https://www.svtplay.se/video/jp5WJvM</a><br
+	><a href="https://apps.apple.com/app/svt-play/id343544214" target="_blank"
+	>https://apps.apple.com/app/svt-play/id343544214</a><br><a href="https://p
+	lay.google.com/store/apps/details?id=se.svt.android.svtplay" target="_blan
+	k">https://play.google.com/store/apps/details?id=se.svt.android.svtplay</a
+	><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent Liv
+	e:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br>https
+	://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href="http
+	s://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-4" targ
+	et="_blank">https://eurovisionworld.com/national/sweden/melodifestivalen-2
+	026#heat-4</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1421@eurovisioncalendar
 SUMMARY:🇵🇹 Portugal | Festival da Canção Semi-final 1
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260221T200000Z
 DTEND:20260221T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1639,7 +1637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1397@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo Night 1
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260224T200000Z
 DTEND:20260224T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1673,7 +1671,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1398@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo Night 2
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260225T200000Z
 DTEND:20260225T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1707,7 +1705,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1399@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo Night 3
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260226T200000Z
 DTEND:20260226T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1741,7 +1739,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1410@eurovisioncalendar
 SUMMARY:🇱🇹 Lithuania | Eurovizija.LT 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260227T170000Z
 DTEND:20260227T170000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1777,7 +1775,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1400@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo Night 4
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260227T200000Z
 DTEND:20260227T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1811,7 +1809,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1388@eurovisioncalendar
 SUMMARY:🇫🇮 Finland | Uuden Musiikin Kilpailu 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260228T190000Z
 DTEND:20260228T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
@@ -1842,17 +1840,17 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through
 END:VEVENT
 BEGIN:VEVENT
 UID:1431@eurovisioncalendar
-SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 5
-DTSTAMP:20251219T011457Z
+SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 5 + Final qual
+DTSTAMP:20251220T011101Z
 DTSTART:20260228T190000Z
 DTEND:20260228T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
-	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
-	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Li
-	ve:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://
-	twitch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionwo
-	rld.com/national/sweden/melodifestivalen-2026#heat-5
+	/www.svtplay.se/video/84dMkqW\nhttps://apps.apple.com/app/svt-play/id34354
+	4214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtplay
+	\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Live:
+	\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://twi
+	tch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionworld
+	.com/national/sweden/melodifestivalen-2026#heat-5
 URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-
 	5
 LOCATION:Sweden
@@ -1862,22 +1860,22 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
 	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
-	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
-	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
-	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
-	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
-	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay</a><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fe
-	nt Live:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br
-	>https://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href
-	="https://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-5
-	" target="_blank">https://eurovisionworld.com/national/sweden/melodifestiv
-	alen-2026#heat-5</a></p></body></html>
+	video/84dMkqW" target="_blank">https://www.svtplay.se/video/84dMkqW</a><br
+	><a href="https://apps.apple.com/app/svt-play/id343544214" target="_blank"
+	>https://apps.apple.com/app/svt-play/id343544214</a><br><a href="https://p
+	lay.google.com/store/apps/details?id=se.svt.android.svtplay" target="_blan
+	k">https://play.google.com/store/apps/details?id=se.svt.android.svtplay</a
+	><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent Liv
+	e:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br>https
+	://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href="http
+	s://eurovisionworld.com/national/sweden/melodifestivalen-2026#heat-5" targ
+	et="_blank">https://eurovisionworld.com/national/sweden/melodifestivalen-2
+	026#heat-5</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1432@eurovisioncalendar
 SUMMARY:🇩🇪 Germany | Das deutsche Finale 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260228T191500Z
 DTEND:20260228T191500Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/nation
@@ -1896,7 +1894,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1401@eurovisioncalendar
 SUMMARY:🇮🇹 Italy | Sanremo 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260228T200000Z
 DTEND:20260228T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1930,7 +1928,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1404@eurovisioncalendar
 SUMMARY:🇳🇴 Norway | Melodi Grand Prix 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260228T200000Z
 DTEND:20260228T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1963,7 +1961,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1422@eurovisioncalendar
 SUMMARY:🇵🇹 Portugal | Festival da Canção Semi-final 2
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260228T200000Z
 DTEND:20260228T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -1999,7 +1997,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1417@eurovisioncalendar
 SUMMARY:🇸🇲 San Marino | San Marino Song Contest Semi-final 1
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260303T200000Z
 DTEND:20260303T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -2028,7 +2026,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1418@eurovisioncalendar
 SUMMARY:🇸🇲 San Marino | San Marino Song Contest Semi-final 2
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260304T200000Z
 DTEND:20260304T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -2057,16 +2055,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1390@eurovisioncalendar
 SUMMARY:🇸🇪 Sweden | Melodifestivalen 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260307T190000Z
 DTEND:20260307T190000Z
 DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
-	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
-	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Li
-	ve:\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://
-	twitch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionwo
-	rld.com/national/sweden/melodifestivalen-2026#final
+	/www.svtplay.se/video/K5dYakN\nhttps://apps.apple.com/app/svt-play/id34354
+	4214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtplay
+	\n\n🌐 Or\, without geoblocking\, on YouTube and Twitch\, on ESC Fent Live:
+	\nhttps://youtube.com/@ESCFentLive (w/ all additional feeds!)\nhttps://twi
+	tch.tv/ESCFentLive\n\nℹ️ More info about this show: https://eurovisionworld
+	.com/national/sweden/melodifestivalen-2026#final
 URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2026#final
 LOCATION:Sweden
 CATEGORIES:Eurovision,National Final,Final
@@ -2075,22 +2073,22 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
 	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
-	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
-	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
-	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
-	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
-	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
-	lay</a><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fe
-	nt Live:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br
-	>https://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href
-	="https://eurovisionworld.com/national/sweden/melodifestivalen-2026#final"
-	 target="_blank">https://eurovisionworld.com/national/sweden/melodifestiva
-	len-2026#final</a></p></body></html>
+	video/K5dYakN" target="_blank">https://www.svtplay.se/video/K5dYakN</a><br
+	><a href="https://apps.apple.com/app/svt-play/id343544214" target="_blank"
+	>https://apps.apple.com/app/svt-play/id343544214</a><br><a href="https://p
+	lay.google.com/store/apps/details?id=se.svt.android.svtplay" target="_blan
+	k">https://play.google.com/store/apps/details?id=se.svt.android.svtplay</a
+	><br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent Liv
+	e:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br>https
+	://twitch.tv/ESCFentLive<br><br>ℹ️ More info about this show: <a href="http
+	s://eurovisionworld.com/national/sweden/melodifestivalen-2026#final" targe
+	t="_blank">https://eurovisionworld.com/national/sweden/melodifestivalen-20
+	26#final</a></p></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:1423@eurovisioncalendar
 SUMMARY:🇵🇹 Portugal | Festival da Canção 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260307T200000Z
 DTEND:20260307T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -2126,7 +2124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1416@eurovisioncalendar
 SUMMARY:🇸🇲 San Marino | San Marino Song Contest 2026 (FINAL)
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260307T200000Z
 DTEND:20260307T200000Z
 DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
@@ -2155,7 +2153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1385@eurovisioncalendar
 SUMMARY:Eurovision Song Contest 2026 Semi-final 1
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260512T190000Z
 DTEND:20260512T190000Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
@@ -2173,7 +2171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1386@eurovisioncalendar
 SUMMARY:Eurovision Song Contest 2026 Semi-final 2
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260514T190000Z
 DTEND:20260514T190000Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
@@ -2191,7 +2189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1387@eurovisioncalendar
 SUMMARY:Eurovision Song Contest 2026 Grand Final
-DTSTAMP:20251219T011457Z
+DTSTAMP:20251220T011101Z
 DTSTART:20260516T190000Z
 DTEND:20260516T190000Z
 DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
