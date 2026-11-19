@@ -1,0 +1,1170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Eurovision Calendar (powered by Eurovisionworld.com)//NONSGML Eur
+	ovision Calendar (powered by Eurovisionworld.com)//EN
+METHOD:PUBLISH
+NAME:Eurovision Calendar (powered by Eurovisionworld.com)
+X-WR-CALNAME:Eurovision Calendar (powered by Eurovisionworld.com)
+DESCRIPTION:A calendar with every Eurovision Song Contest related event. 
+    Made by ESC Fent thanks to the great work of Eurovisionworld.com.
+X-WR-CALDESC:A calendar with every Eurovision Song Contest related event. 
+    Made by ESC Fent thanks to the great work of Eurovisionworld.com.
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:1527@eurovisioncalendar
+SUMMARY:Eurovision 2027: Host city announcement
+DTSTAMP:20261119T143407Z
+DTSTART:20260813T080000Z
+DTEND:20260813T080000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
+	urovision-2027-will-be-held-in-burgas-final-on-15-may\nℹ️ More info about t
+	his show: https://eurovisionworld.com/eurovision/2027/event#city
+URL:https://eurovisionworld.com/esc/eurovision-2027-will-be-held-in-burgas-
+	final-on-15-may
+CATEGORIES:Eurovision
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/eurovision-2027-wil
+	l-be-held-in-burgas-final-on-15-may" target="_blank">https://eurovisionwor
+	ld.com/esc/eurovision-2027-will-be-held-in-burgas-final-on-15-may</a><br>ℹ️
+	 More info about this show: <a href="https://eurovisionworld.com/eurovisio
+	n/2027/event#city" target="_blank">https://eurovisionworld.com/eurovision/
+	2027/event#city</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1563@eurovisioncalendar
+SUMMARY:🇦🇱 Albania | Artists for Festivali i Këngës announced
+DTSTAMP:20261119T143407Z
+DTSTART:20261009T173000Z
+DTEND:20261009T173000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
+	lbania-artists-for-festivali-i-kenges-65-revealed\nℹ️ More info about this 
+	show: https://eurovisionworld.com/national/albania/festivali-i-kenges-65-2
+	027
+URL:https://eurovisionworld.com/esc/albania-artists-for-festivali-i-kenges-
+	65-revealed
+LOCATION:Albania
+CATEGORIES:Eurovision
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/albania-artists-for
+	-festivali-i-kenges-65-revealed" target="_blank">https://eurovisionworld.c
+	om/esc/albania-artists-for-festivali-i-kenges-65-revealed</a><br>ℹ️ More in
+	fo about this show: <a href="https://eurovisionworld.com/national/albania/
+	festivali-i-kenges-65-2027" target="_blank">https://eurovisionworld.com/na
+	tional/albania/festivali-i-kenges-65-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1561@eurovisioncalendar
+SUMMARY:🇪🇪 Estonia | Artists for Eesti Laul announced
+DTSTAMP:20261119T143407Z
+DTSTART:20261022T160000Z
+DTEND:20261022T160000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/e
+	stonia-eesti-laul-2027-artists-revealed\nℹ️ More info about this show: http
+	s://eurovisionworld.com/national/estonia/eesti-laul-2027
+URL:https://eurovisionworld.com/esc/estonia-eesti-laul-2027-artists-reveale
+	d
+LOCATION:Estonia
+CATEGORIES:Eurovision
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/estonia-eesti-laul-
+	2027-artists-revealed" target="_blank">https://eurovisionworld.com/esc/est
+	onia-eesti-laul-2027-artists-revealed</a><br>ℹ️ More info about this show: 
+	<a href="https://eurovisionworld.com/national/estonia/eesti-laul-2027" tar
+	get="_blank">https://eurovisionworld.com/national/estonia/eesti-laul-2027<
+	/a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1517@eurovisioncalendar
+SUMMARY:Junior Eurovision 2026
+DTSTAMP:20261119T143407Z
+DTSTART:20261024T190000Z
+DTEND:20261024T190000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
+	rmenia-wins-the-junior-eurovision-song-contest-2026\nℹ️ More info about thi
+	s show: https://eurovisionworld.com/junior-eurovision/2026
+URL:https://eurovisionworld.com/esc/armenia-wins-the-junior-eurovision-song
+	-contest-2026
+CATEGORIES:Eurovision,EBU Event
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/armenia-wins-the-ju
+	nior-eurovision-song-contest-2026" target="_blank">https://eurovisionworld
+	.com/esc/armenia-wins-the-junior-eurovision-song-contest-2026</a><br>ℹ️ Mor
+	e info about this show: <a href="https://eurovisionworld.com/junior-eurovi
+	sion/2026" target="_blank">https://eurovisionworld.com/junior-eurovision/2
+	026</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1547@eurovisioncalendar
+SUMMARY:🇨🇦 Canada | Artists for Canada's Choice announced
+DTSTAMP:20261119T143407Z
+DTSTART:20261027T190000Z
+DTEND:20261027T190000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
+	rtists-for-canadas-choice-2027-revealed\nℹ️ More info about this show: http
+	s://eurovisionworld.com/national/canada/2027
+URL:https://eurovisionworld.com/esc/artists-for-canadas-choice-2027-reveale
+	d
+LOCATION:Canada
+CATEGORIES:Eurovision
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/artists-for-canadas
+	-choice-2027-revealed" target="_blank">https://eurovisionworld.com/esc/art
+	ists-for-canadas-choice-2027-revealed</a><br>ℹ️ More info about this show: 
+	<a href="https://eurovisionworld.com/national/canada/2027" target="_blank"
+	>https://eurovisionworld.com/national/canada/2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1569@eurovisioncalendar
+SUMMARY:Countries for Eurovision 2027 announced
+DTSTAMP:20261119T143407Z
+DTSTART:20261028T090000Z
+DTEND:20261028T090000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/c
+	onfirmed-36-countries-will-take-part-in-eurovision-2027\nℹ️ More info about
+	 this show: https://eurovisionworld.com/eurovision/2027/event#participants
+URL:https://eurovisionworld.com/esc/confirmed-36-countries-will-take-part-i
+	n-eurovision-2027
+CATEGORIES:Eurovision,EBU Event
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/confirmed-36-countr
+	ies-will-take-part-in-eurovision-2027" target="_blank">https://eurovisionw
+	orld.com/esc/confirmed-36-countries-will-take-part-in-eurovision-2027</a><
+	br>ℹ️ More info about this show: <a href="https://eurovisionworld.com/eurov
+	ision/2027/event#participants" target="_blank">https://eurovisionworld.com
+	/eurovision/2027/event#participants</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1571@eurovisioncalendar
+SUMMARY:🇨🇾 Cyprus | Artist announcement
+DTSTAMP:20261119T143407Z
+DTSTART:20261104T073000Z
+DTEND:20261104T073000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/c
+	yprus-george-perris-to-eurovision-2027
+URL:https://eurovisionworld.com/esc/cyprus-george-perris-to-eurovision-2027
+LOCATION:Cyprus
+CATEGORIES:Eurovision
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/cyprus-george-perri
+	s-to-eurovision-2027" target="_blank">https://eurovisionworld.com/esc/cypr
+	us-george-perris-to-eurovision-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1516@eurovisioncalendar
+SUMMARY:Eurovision Asia 2026
+DTSTAMP:20261119T143407Z
+DTSTART:20261114T133000Z
+DTEND:20261114T133000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/p
+	hilippines-wins-eurovision-asia-2026\nℹ️ More info about this show: https:/
+	/eurovisionworld.com/eurovision-asia/2026
+URL:https://eurovisionworld.com/esc/philippines-wins-eurovision-asia-2026
+CATEGORIES:Eurovision,EBU Event
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/philippines-wins-eu
+	rovision-asia-2026" target="_blank">https://eurovisionworld.com/esc/philip
+	pines-wins-eurovision-asia-2026</a><br>ℹ️ More info about this show: <a hre
+	f="https://eurovisionworld.com/eurovision-asia/2026" target="_blank">https
+	://eurovisionworld.com/eurovision-asia/2026</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1567@eurovisioncalendar
+SUMMARY:🇱🇺 Luxembourg | Artists for Luxembourg Song Contest announced
+DTSTAMP:20261119T143407Z
+DTSTART:20261117T213000Z
+DTEND:20261117T213000Z
+DESCRIPTION:📅 More info about this event: https://eurovisionworld.com/esc/a
+	rtists-for-luxembourg-song-contest-2027-revealed\nℹ️ More info about this s
+	how: https://eurovisionworld.com/national/luxembourg/luxembourg-song-conte
+	st-2027
+URL:https://eurovisionworld.com/esc/artists-for-luxembourg-song-contest-202
+	7-revealed
+LOCATION:Luxembourg
+CATEGORIES:Eurovision
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📅 More info abou
+	t this event: <a href="https://eurovisionworld.com/esc/artists-for-luxembo
+	urg-song-contest-2027-revealed" target="_blank">https://eurovisionworld.co
+	m/esc/artists-for-luxembourg-song-contest-2027-revealed</a><br>ℹ️ More info
+	 about this show: <a href="https://eurovisionworld.com/national/luxembourg
+	/luxembourg-song-contest-2027" target="_blank">https://eurovisionworld.com
+	/national/luxembourg/luxembourg-song-contest-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1535@eurovisioncalendar
+SUMMARY:🇱🇻 Latvia | Artists & songs for Supernova announced
+DTSTAMP:20261119T143407Z
+DTSTART:20261120T063000Z
+DTEND:20261120T063000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/replay.lsm.lv/lv/skaties/tiesraide/ltv1/24594/supernova-2027-finalistu-iz
+	zinosana\n\nℹ️ More info about this show: https://eurovisionworld.com/natio
+	nal/latvia/supernova-2027
+URL:https://eurovisionworld.com/national/latvia/supernova-2027
+LOCATION:Latvia
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://replay.lsm.lv/l
+	v/skaties/tiesraide/ltv1/24594/supernova-2027-finalistu-izzinosana" target
+	="_blank">https://replay.lsm.lv/lv/skaties/tiesraide/ltv1/24594/supernova-
+	2027-finalistu-izzinosana</a><br><br>ℹ️ More info about this show: <a href=
+	"https://eurovisionworld.com/national/latvia/supernova-2027" target="_blan
+	k">https://eurovisionworld.com/national/latvia/supernova-2027</a></p></bod
+	y></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1562@eurovisioncalendar
+SUMMARY:🇪🇪 Estonia | Songs for Eesti Laul released
+DTSTAMP:20261119T143407Z
+DTSTART:20261127T180000Z
+DTEND:20261127T180000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/jupiter.err.ee/etv\nhttps://apps.apple.com/app/err/id523587737\nhttps://p
+	lay.google.com/store/apps/details?id=ee.fm.err\n\nℹ️ More info about this s
+	how: https://eurovisionworld.com/national/estonia/eesti-laul-2027
+URL:https://eurovisionworld.com/national/estonia/eesti-laul-2027
+LOCATION:Estonia
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://jupiter.err.ee/
+	etv" target="_blank">https://jupiter.err.ee/etv</a><br><a href="https://ap
+	ps.apple.com/app/err/id523587737" target="_blank">https://apps.apple.com/a
+	pp/err/id523587737</a><br><a href="https://play.google.com/store/apps/deta
+	ils?id=ee.fm.err" target="_blank">https://play.google.com/store/apps/detai
+	ls?id=ee.fm.err</a><br><br>ℹ️ More info about this show: <a href="https://e
+	urovisionworld.com/national/estonia/eesti-laul-2027" target="_blank">https
+	://eurovisionworld.com/national/estonia/eesti-laul-2027</a></p></body></ht
+	ml>
+END:VEVENT
+BEGIN:VEVENT
+UID:1540@eurovisioncalendar
+SUMMARY:🇨🇦 Canada | Artist announcement
+DTSTAMP:20261119T143407Z
+DTSTART:20261205T200000Z
+DTEND:20261205T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\nℹ️ More info a
+	bout this show: https://eurovisionworld.com/national/canada/2027
+URL:https://eurovisionworld.com/national/canada/2027
+LOCATION:Canada
+CATEGORIES:Eurovision
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>ℹ️ More info about this show: 
+	<a href="https://eurovisionworld.com/national/canada/2027" target="_blank"
+	>https://eurovisionworld.com/national/canada/2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1575@eurovisioncalendar
+SUMMARY:🇮🇹 Italy | Artists for Sanremo 2027 announced
+DTSTAMP:20261119T143407Z
+DTSTART:20261211T203000Z
+DTEND:20261211T203000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.raiplay.it/dirette/rai1\nhttps://apps.apple.com/app/raiplay/id5013237
+	40\nhttps://play.google.com/store/apps/details?id=it.rainet\n\nℹ️ More info
+	 about this show: https://eurovisionworld.com/national/italy/sanremo-2027
+URL:https://eurovisionworld.com/national/italy/sanremo-2027
+LOCATION:Italy
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.raiplay.it/
+	dirette/rai1" target="_blank">https://www.raiplay.it/dirette/rai1</a><br><
+	a href="https://apps.apple.com/app/raiplay/id501323740" target="_blank">ht
+	tps://apps.apple.com/app/raiplay/id501323740</a><br><a href="https://play.
+	google.com/store/apps/details?id=it.rainet" target="_blank">https://play.g
+	oogle.com/store/apps/details?id=it.rainet</a><br><br>ℹ️ More info about thi
+	s show: <a href="https://eurovisionworld.com/national/italy/sanremo-2027" 
+	target="_blank">https://eurovisionworld.com/national/italy/sanremo-2027</a
+	></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1564@eurovisioncalendar
+SUMMARY:🇦🇱 Albania | Festivali i Këngës - Night 1
+DTSTAMP:20261119T143407Z
+DTSTART:20261217T200000Z
+DTEND:20261217T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.youtube.com/@RadioT
+	elevizioniShqiptar/streams\n\nℹ️ More info about this show: https://eurovis
+	ionworld.com/national/albania/festivali-i-kenges-65-2027#night-1
+URL:https://eurovisionworld.com/national/albania/festivali-i-kenges-65-2027
+	#night-1
+LOCATION:Albania
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.youtube.com/@RadioTelevi
+	zioniShqiptar/streams" target="_blank">https://www.youtube.com/@RadioTelev
+	izioniShqiptar/streams</a><br><br>ℹ️ More info about this show: <a href="ht
+	tps://eurovisionworld.com/national/albania/festivali-i-kenges-65-2027#nigh
+	t-1" target="_blank">https://eurovisionworld.com/national/albania/festival
+	i-i-kenges-65-2027#night-1</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1565@eurovisioncalendar
+SUMMARY:🇦🇱 Albania | Festivali i Këngës - Night 2
+DTSTAMP:20261119T143407Z
+DTSTART:20261218T200000Z
+DTEND:20261218T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.youtube.com/@RadioT
+	elevizioniShqiptar/streams\n\nℹ️ More info about this show: https://eurovis
+	ionworld.com/national/albania/festivali-i-kenges-65-2027#night-2
+URL:https://eurovisionworld.com/national/albania/festivali-i-kenges-65-2027
+	#night-2
+LOCATION:Albania
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.youtube.com/@RadioTelevi
+	zioniShqiptar/streams" target="_blank">https://www.youtube.com/@RadioTelev
+	izioniShqiptar/streams</a><br><br>ℹ️ More info about this show: <a href="ht
+	tps://eurovisionworld.com/national/albania/festivali-i-kenges-65-2027#nigh
+	t-2" target="_blank">https://eurovisionworld.com/national/albania/festival
+	i-i-kenges-65-2027#night-2</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1566@eurovisioncalendar
+SUMMARY:🇦🇱 Albania | Festivali i Këngës - Night 3
+DTSTAMP:20261119T143407Z
+DTSTART:20261219T200000Z
+DTEND:20261219T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.youtube.com/@RadioT
+	elevizioniShqiptar/streams\n\nℹ️ More info about this show: https://eurovis
+	ionworld.com/national/albania/festivali-i-kenges-65-2027#night-3
+URL:https://eurovisionworld.com/national/albania/festivali-i-kenges-65-2027
+	#night-3
+LOCATION:Albania
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.youtube.com/@RadioTelevi
+	zioniShqiptar/streams" target="_blank">https://www.youtube.com/@RadioTelev
+	izioniShqiptar/streams</a><br><br>ℹ️ More info about this show: <a href="ht
+	tps://eurovisionworld.com/national/albania/festivali-i-kenges-65-2027#nigh
+	t-3" target="_blank">https://eurovisionworld.com/national/albania/festival
+	i-i-kenges-65-2027#night-3</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1537@eurovisioncalendar
+SUMMARY:🇦🇱 Albania | Festivali i Këngës #65 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20261220T200000Z
+DTEND:20261220T200000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.youtube.com/@RadioTelevizioniShqiptar/streams\n\nℹ️ More info about th
+	is show: https://eurovisionworld.com/national/albania/festivali-i-kenges-6
+	5-2027#final
+URL:https://eurovisionworld.com/national/albania/festivali-i-kenges-65-2027
+	#final
+LOCATION:Albania
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.youtube.com
+	/@RadioTelevizioniShqiptar/streams" target="_blank">https://www.youtube.co
+	m/@RadioTelevizioniShqiptar/streams</a><br><br>ℹ️ More info about this show
+	: <a href="https://eurovisionworld.com/national/albania/festivali-i-kenges
+	-65-2027#final" target="_blank">https://eurovisionworld.com/national/alban
+	ia/festivali-i-kenges-65-2027#final</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1560@eurovisioncalendar
+SUMMARY:🇫🇮 Finland | Artists for UMK announced
+DTSTAMP:20261119T143407Z
+DTSTART:20270113T180000Z
+DTEND:20270113T180000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/areena.yle.fi/suorat\nhttps://apps.apple.com/app/yle-areena-tv-ja-radio/i
+	d542317657\nhttps://play.google.com/store/apps/details?id=com.yle.webtv\n\
+	nℹ️ More info about this show: https://eurovisionworld.com/national/finland
+	/umk-2027
+URL:https://eurovisionworld.com/national/finland/umk-2027
+LOCATION:Finland
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://areena.yle.fi/s
+	uorat" target="_blank">https://areena.yle.fi/suorat</a><br><a href="https:
+	//apps.apple.com/app/yle-areena-tv-ja-radio/id542317657" target="_blank">h
+	ttps://apps.apple.com/app/yle-areena-tv-ja-radio/id542317657</a><br><a hre
+	f="https://play.google.com/store/apps/details?id=com.yle.webtv" target="_b
+	lank">https://play.google.com/store/apps/details?id=com.yle.webtv</a><br><
+	br>ℹ️ More info about this show: <a href="https://eurovisionworld.com/natio
+	nal/finland/umk-2027" target="_blank">https://eurovisionworld.com/national
+	/finland/umk-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1548@eurovisioncalendar
+SUMMARY:🇪🇪 Estonia | Eesti Laul 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270130T200000Z
+DTEND:20270130T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://jupiter.err.ee/etv\nhtt
+	ps://apps.apple.com/app/err/id523587737\nhttps://play.google.com/store/app
+	s/details?id=ee.fm.err\n\nℹ️ More info about this show: https://eurovisionw
+	orld.com/national/estonia/eesti-laul-2027
+URL:https://eurovisionworld.com/national/estonia/eesti-laul-2027
+LOCATION:Estonia
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://jupiter.err.ee/etv" target="
+	_blank">https://jupiter.err.ee/etv</a><br><a href="https://apps.apple.com/
+	app/err/id523587737" target="_blank">https://apps.apple.com/app/err/id5235
+	87737</a><br><a href="https://play.google.com/store/apps/details?id=ee.fm.
+	err" target="_blank">https://play.google.com/store/apps/details?id=ee.fm.e
+	rr</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionworl
+	d.com/national/estonia/eesti-laul-2027" target="_blank">https://eurovision
+	world.com/national/estonia/eesti-laul-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1529@eurovisioncalendar
+SUMMARY:🇱🇺 Luxembourg | Luxembourg Song Contest 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270130T200000Z
+DTEND:20270130T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://play.rtl.lu/live/rtl\n\
+	nℹ️ More info about this show: https://eurovisionworld.com/national/luxembo
+	urg/luxembourg-song-contest-2027
+URL:https://eurovisionworld.com/national/luxembourg/luxembourg-song-contest
+	-2027
+LOCATION:Luxembourg
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://play.rtl.lu/live/rtl" target
+	="_blank">https://play.rtl.lu/live/rtl</a><br><br>ℹ️ More info about this s
+	how: <a href="https://eurovisionworld.com/national/luxembourg/luxembourg-s
+	ong-contest-2027" target="_blank">https://eurovisionworld.com/national/lux
+	embourg/luxembourg-song-contest-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1576@eurovisioncalendar
+SUMMARY:🇲🇩 Moldova | Selecția Națională 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270130T200000Z
+DTEND:20270130T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.youtube.com/@TRMMDC
+	hannel/streams\nhttps://moldova1.md/live\n\nℹ️ More info about this show: h
+	ttps://eurovisionworld.com/national/moldova/2027
+URL:https://eurovisionworld.com/national/moldova/2027
+LOCATION:Moldova
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.youtube.com/@TRMMDChanne
+	l/streams" target="_blank">https://www.youtube.com/@TRMMDChannel/streams</
+	a><br><a href="https://moldova1.md/live" target="_blank">https://moldova1.
+	md/live</a><br><br>ℹ️ More info about this show: <a href="https://eurovisio
+	nworld.com/national/moldova/2027" target="_blank">https://eurovisionworld.
+	com/national/moldova/2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1534@eurovisioncalendar
+SUMMARY:🇱🇻 Latvia | Supernova 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270206T190000Z
+DTEND:20270206T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/ltv.lsm.lv/lv/tiesraide/ltv1\nhttps://apps.apple.com/app/lsm-lv/id8068084
+	77\nhttps://play.google.com/store/apps/details?id=lv.lsm.sochi2014\n\nℹ️ Mo
+	re info about this show: https://eurovisionworld.com/national/latvia/super
+	nova-2027
+URL:https://eurovisionworld.com/national/latvia/supernova-2027
+LOCATION:Latvia
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://ltv.lsm.lv/lv/t
+	iesraide/ltv1" target="_blank">https://ltv.lsm.lv/lv/tiesraide/ltv1</a><br
+	><a href="https://apps.apple.com/app/lsm-lv/id806808477" target="_blank">h
+	ttps://apps.apple.com/app/lsm-lv/id806808477</a><br><a href="https://play.
+	google.com/store/apps/details?id=lv.lsm.sochi2014" target="_blank">https:/
+	/play.google.com/store/apps/details?id=lv.lsm.sochi2014</a><br><br>ℹ️ More 
+	info about this show: <a href="https://eurovisionworld.com/national/latvia
+	/supernova-2027" target="_blank">https://eurovisionworld.com/national/latv
+	ia/supernova-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1542@eurovisioncalendar
+SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 1
+DTSTAMP:20261119T143407Z
+DTSTART:20270206T190000Z
+DTEND:20270206T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
+	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay\n\nℹ️ More info about this show: https://eurovisionworld.com/national/s
+	weden/melodifestivalen-2027#heat-1
+URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-
+	1
+LOCATION:Sweden
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
+	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
+	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
+	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
+	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
+	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionwor
+	ld.com/national/sweden/melodifestivalen-2027#heat-1" target="_blank">https
+	://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-1</a></p
+	></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1557@eurovisioncalendar
+SUMMARY:🇬🇷 Greece | Sing for Greece Semi-final 1
+DTSTAMP:20261119T143407Z
+DTSTART:20270209T200000Z
+DTEND:20270209T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.ertflix.gr/en/epg/c
+	hannel/ept-world-live\nhttps://apps.apple.com/app/ertflix/id1523051527\nht
+	tps://play.google.com/store/apps/details?id=com.ertflix.app\n\nℹ️ More info
+	 about this show: https://eurovisionworld.com/national/greece/sing-for-gre
+	ece-2027#semi-final-1
+URL:https://eurovisionworld.com/national/greece/sing-for-greece-2027#semi-f
+	inal-1
+LOCATION:Greece
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.ertflix.gr/en/epg/channe
+	l/ept-world-live" target="_blank">https://www.ertflix.gr/en/epg/channel/ep
+	t-world-live</a><br><a href="https://apps.apple.com/app/ertflix/id15230515
+	27" target="_blank">https://apps.apple.com/app/ertflix/id1523051527</a><br
+	><a href="https://play.google.com/store/apps/details?id=com.ertflix.app" t
+	arget="_blank">https://play.google.com/store/apps/details?id=com.ertflix.a
+	pp</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionworl
+	d.com/national/greece/sing-for-greece-2027#semi-final-1" target="_blank">h
+	ttps://eurovisionworld.com/national/greece/sing-for-greece-2027#semi-final
+	-1</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1558@eurovisioncalendar
+SUMMARY:🇬🇷 Greece | Sing for Greece Semi-final 2
+DTSTAMP:20261119T143407Z
+DTSTART:20270211T200000Z
+DTEND:20270211T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.ertflix.gr/en/epg/c
+	hannel/ept-world-live\nhttps://apps.apple.com/app/ertflix/id1523051527\nht
+	tps://play.google.com/store/apps/details?id=com.ertflix.app\n\nℹ️ More info
+	 about this show: https://eurovisionworld.com/national/greece/sing-for-gre
+	ece-2027#semi-final-2
+URL:https://eurovisionworld.com/national/greece/sing-for-greece-2027#semi-f
+	inal-2
+LOCATION:Greece
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.ertflix.gr/en/epg/channe
+	l/ept-world-live" target="_blank">https://www.ertflix.gr/en/epg/channel/ep
+	t-world-live</a><br><a href="https://apps.apple.com/app/ertflix/id15230515
+	27" target="_blank">https://apps.apple.com/app/ertflix/id1523051527</a><br
+	><a href="https://play.google.com/store/apps/details?id=com.ertflix.app" t
+	arget="_blank">https://play.google.com/store/apps/details?id=com.ertflix.a
+	pp</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionworl
+	d.com/national/greece/sing-for-greece-2027#semi-final-2" target="_blank">h
+	ttps://eurovisionworld.com/national/greece/sing-for-greece-2027#semi-final
+	-2</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1513@eurovisioncalendar
+SUMMARY:🇩🇰 Denmark | Melodi Grand Prix 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270213T190000Z
+DTEND:20270213T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.dr.dk/drtv/kanal/20875\nhttps://apps.apple.com/app/drtv/id877604999\n
+	https://play.google.com/store/apps/details?id=dk.dr.webplayer\n\nℹ️ More in
+	fo about this show: https://eurovisionworld.com/national/denmark/melodi-gr
+	and-prix-2027
+URL:https://eurovisionworld.com/national/denmark/melodi-grand-prix-2027
+LOCATION:Denmark
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.dr.dk/drtv/
+	kanal/20875" target="_blank">https://www.dr.dk/drtv/kanal/20875</a><br><a 
+	href="https://apps.apple.com/app/drtv/id877604999" target="_blank">https:/
+	/apps.apple.com/app/drtv/id877604999</a><br><a href="https://play.google.c
+	om/store/apps/details?id=dk.dr.webplayer" target="_blank">https://play.goo
+	gle.com/store/apps/details?id=dk.dr.webplayer</a><br><br>ℹ️ More info about
+	 this show: <a href="https://eurovisionworld.com/national/denmark/melodi-g
+	rand-prix-2027" target="_blank">https://eurovisionworld.com/national/denma
+	rk/melodi-grand-prix-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1543@eurovisioncalendar
+SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 2
+DTSTAMP:20261119T143407Z
+DTSTART:20270213T190000Z
+DTEND:20270213T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
+	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay\n\nℹ️ More info about this show: https://eurovisionworld.com/national/s
+	weden/melodifestivalen-2027#heat-2
+URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-
+	2
+LOCATION:Sweden
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
+	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
+	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
+	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
+	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
+	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionwor
+	ld.com/national/sweden/melodifestivalen-2027#heat-2" target="_blank">https
+	://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-2</a></p
+	></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1528@eurovisioncalendar
+SUMMARY:🇬🇷 Greece | Sing for Greece 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270213T200000Z
+DTEND:20270213T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.ertflix.gr/en/epg/c
+	hannel/ept-world-live\nhttps://apps.apple.com/app/ertflix/id1523051527\nht
+	tps://play.google.com/store/apps/details?id=com.ertflix.app\n\nℹ️ More info
+	 about this show: https://eurovisionworld.com/national/greece/sing-for-gre
+	ece-2027#final
+URL:https://eurovisionworld.com/national/greece/sing-for-greece-2027#final
+LOCATION:Greece
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.ertflix.gr/en/epg/channe
+	l/ept-world-live" target="_blank">https://www.ertflix.gr/en/epg/channel/ep
+	t-world-live</a><br><a href="https://apps.apple.com/app/ertflix/id15230515
+	27" target="_blank">https://apps.apple.com/app/ertflix/id1523051527</a><br
+	><a href="https://play.google.com/store/apps/details?id=com.ertflix.app" t
+	arget="_blank">https://play.google.com/store/apps/details?id=com.ertflix.a
+	pp</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionworl
+	d.com/national/greece/sing-for-greece-2027#final" target="_blank">https://
+	eurovisionworld.com/national/greece/sing-for-greece-2027#final</a></p></bo
+	dy></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1522@eurovisioncalendar
+SUMMARY:🇮🇹 Italy | Sanremo Night 1
+DTSTAMP:20261119T143407Z
+DTSTART:20270216T200000Z
+DTEND:20270216T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.raiplay.it/dirette/
+	rai1\nhttps://apps.apple.com/app/raiplay/id501323740\nhttps://play.google.
+	com/store/apps/details?id=it.rainet\n\nℹ️ More info about this show: https:
+	//eurovisionworld.com/national/italy/sanremo-2027#1st-night
+URL:https://eurovisionworld.com/national/italy/sanremo-2027#1st-night
+LOCATION:Italy
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.raiplay.it/dirette/rai1"
+	 target="_blank">https://www.raiplay.it/dirette/rai1</a><br><a href="https
+	://apps.apple.com/app/raiplay/id501323740" target="_blank">https://apps.ap
+	ple.com/app/raiplay/id501323740</a><br><a href="https://play.google.com/st
+	ore/apps/details?id=it.rainet" target="_blank">https://play.google.com/sto
+	re/apps/details?id=it.rainet</a><br><br>ℹ️ More info about this show: <a hr
+	ef="https://eurovisionworld.com/national/italy/sanremo-2027#1st-night" tar
+	get="_blank">https://eurovisionworld.com/national/italy/sanremo-2027#1st-n
+	ight</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1523@eurovisioncalendar
+SUMMARY:🇮🇹 Italy | Sanremo Night 2
+DTSTAMP:20261119T143407Z
+DTSTART:20270217T200000Z
+DTEND:20270217T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.raiplay.it/dirette/
+	rai1\nhttps://apps.apple.com/app/raiplay/id501323740\nhttps://play.google.
+	com/store/apps/details?id=it.rainet\n\nℹ️ More info about this show: https:
+	//eurovisionworld.com/national/italy/sanremo-2027#2nd-night
+URL:https://eurovisionworld.com/national/italy/sanremo-2027#2nd-night
+LOCATION:Italy
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.raiplay.it/dirette/rai1"
+	 target="_blank">https://www.raiplay.it/dirette/rai1</a><br><a href="https
+	://apps.apple.com/app/raiplay/id501323740" target="_blank">https://apps.ap
+	ple.com/app/raiplay/id501323740</a><br><a href="https://play.google.com/st
+	ore/apps/details?id=it.rainet" target="_blank">https://play.google.com/sto
+	re/apps/details?id=it.rainet</a><br><br>ℹ️ More info about this show: <a hr
+	ef="https://eurovisionworld.com/national/italy/sanremo-2027#2nd-night" tar
+	get="_blank">https://eurovisionworld.com/national/italy/sanremo-2027#2nd-n
+	ight</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1524@eurovisioncalendar
+SUMMARY:🇮🇹 Italy | Sanremo Cover Night
+DTSTAMP:20261119T143407Z
+DTSTART:20270218T200000Z
+DTEND:20270218T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.raiplay.it/dirette/
+	rai1\nhttps://apps.apple.com/app/raiplay/id501323740\nhttps://play.google.
+	com/store/apps/details?id=it.rainet\n\nℹ️ More info about this show: https:
+	//eurovisionworld.com/national/italy/sanremo-2027#3rd-night
+URL:https://eurovisionworld.com/national/italy/sanremo-2027#3rd-night
+LOCATION:Italy
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.raiplay.it/dirette/rai1"
+	 target="_blank">https://www.raiplay.it/dirette/rai1</a><br><a href="https
+	://apps.apple.com/app/raiplay/id501323740" target="_blank">https://apps.ap
+	ple.com/app/raiplay/id501323740</a><br><a href="https://play.google.com/st
+	ore/apps/details?id=it.rainet" target="_blank">https://play.google.com/sto
+	re/apps/details?id=it.rainet</a><br><br>ℹ️ More info about this show: <a hr
+	ef="https://eurovisionworld.com/national/italy/sanremo-2027#3rd-night" tar
+	get="_blank">https://eurovisionworld.com/national/italy/sanremo-2027#3rd-n
+	ight</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1525@eurovisioncalendar
+SUMMARY:🇮🇹 Italy | Sanremo Eurovision Night (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270219T200000Z
+DTEND:20270219T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.raiplay.it/dirette/
+	rai1\nhttps://apps.apple.com/app/raiplay/id501323740\nhttps://play.google.
+	com/store/apps/details?id=it.rainet\n\nℹ️ More info about this show: https:
+	//eurovisionworld.com/national/italy/sanremo-2027#4th-night
+URL:https://eurovisionworld.com/national/italy/sanremo-2027#4th-night
+LOCATION:Italy
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.raiplay.it/dirette/rai1"
+	 target="_blank">https://www.raiplay.it/dirette/rai1</a><br><a href="https
+	://apps.apple.com/app/raiplay/id501323740" target="_blank">https://apps.ap
+	ple.com/app/raiplay/id501323740</a><br><a href="https://play.google.com/st
+	ore/apps/details?id=it.rainet" target="_blank">https://play.google.com/sto
+	re/apps/details?id=it.rainet</a><br><br>ℹ️ More info about this show: <a hr
+	ef="https://eurovisionworld.com/national/italy/sanremo-2027#4th-night" tar
+	get="_blank">https://eurovisionworld.com/national/italy/sanremo-2027#4th-n
+	ight</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1521@eurovisioncalendar
+SUMMARY:🇫🇮 Finland | Uuden Musiikin Kilpailu 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270220T190000Z
+DTEND:20270220T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/areena.yle.fi/suorat\nhttps://apps.apple.com/app/yle-areena-tv-ja-radio/i
+	d542317657\nhttps://play.google.com/store/apps/details?id=com.yle.webtv\n\
+	nℹ️ More info about this show: https://eurovisionworld.com/national/finland
+	/umk-2027
+URL:https://eurovisionworld.com/national/finland/umk-2027
+LOCATION:Finland
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://areena.yle.fi/s
+	uorat" target="_blank">https://areena.yle.fi/suorat</a><br><a href="https:
+	//apps.apple.com/app/yle-areena-tv-ja-radio/id542317657" target="_blank">h
+	ttps://apps.apple.com/app/yle-areena-tv-ja-radio/id542317657</a><br><a hre
+	f="https://play.google.com/store/apps/details?id=com.yle.webtv" target="_b
+	lank">https://play.google.com/store/apps/details?id=com.yle.webtv</a><br><
+	br>ℹ️ More info about this show: <a href="https://eurovisionworld.com/natio
+	nal/finland/umk-2027" target="_blank">https://eurovisionworld.com/national
+	/finland/umk-2027</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1544@eurovisioncalendar
+SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 3
+DTSTAMP:20261119T143407Z
+DTSTART:20270220T190000Z
+DTEND:20270220T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
+	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay\n\nℹ️ More info about this show: https://eurovisionworld.com/national/s
+	weden/melodifestivalen-2027#heat-3
+URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-
+	3
+LOCATION:Sweden
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
+	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
+	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
+	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
+	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
+	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionwor
+	ld.com/national/sweden/melodifestivalen-2027#heat-3" target="_blank">https
+	://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-3</a></p
+	></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1526@eurovisioncalendar
+SUMMARY:🇮🇹 Italy | Sanremo Final
+DTSTAMP:20261119T143407Z
+DTSTART:20270220T200000Z
+DTEND:20270220T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.raiplay.it/dirette/
+	rai1\nhttps://apps.apple.com/app/raiplay/id501323740\nhttps://play.google.
+	com/store/apps/details?id=it.rainet\n\nℹ️ More info about this show: https:
+	//eurovisionworld.com/national/italy/sanremo-2027#5th-night
+URL:https://eurovisionworld.com/national/italy/sanremo-2027#5th-night
+LOCATION:Italy
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.raiplay.it/dirette/rai1"
+	 target="_blank">https://www.raiplay.it/dirette/rai1</a><br><a href="https
+	://apps.apple.com/app/raiplay/id501323740" target="_blank">https://apps.ap
+	ple.com/app/raiplay/id501323740</a><br><a href="https://play.google.com/st
+	ore/apps/details?id=it.rainet" target="_blank">https://play.google.com/sto
+	re/apps/details?id=it.rainet</a><br><br>ℹ️ More info about this show: <a hr
+	ef="https://eurovisionworld.com/national/italy/sanremo-2027#5th-night" tar
+	get="_blank">https://eurovisionworld.com/national/italy/sanremo-2027#5th-n
+	ight</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1552@eurovisioncalendar
+SUMMARY:🇱🇹 Lithuania | Eurovizija.LT 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270220T200000Z
+DTEND:20270220T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.lrt.lt/mediateka/ti
+	esiogiai/lrt-televizija\nhttps://apps.apple.com/app/lrt-lt/id999758256\nht
+	tps://play.google.com/store/apps/details?id=lt.mediapark.lrt\n\nℹ️ More inf
+	o about this show: https://eurovisionworld.com/national/lithuania/eurovizi
+	jalt-2027#final
+URL:https://eurovisionworld.com/national/lithuania/eurovizijalt-2027#final
+LOCATION:Lithuania
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.lrt.lt/mediateka/tiesiog
+	iai/lrt-televizija" target="_blank">https://www.lrt.lt/mediateka/tiesiogia
+	i/lrt-televizija</a><br><a href="https://apps.apple.com/app/lrt-lt/id99975
+	8256" target="_blank">https://apps.apple.com/app/lrt-lt/id999758256</a><br
+	><a href="https://play.google.com/store/apps/details?id=lt.mediapark.lrt" 
+	target="_blank">https://play.google.com/store/apps/details?id=lt.mediapark
+	.lrt</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionwo
+	rld.com/national/lithuania/eurovizijalt-2027#final" target="_blank">https:
+	//eurovisionworld.com/national/lithuania/eurovizijalt-2027#final</a></p></
+	body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1545@eurovisioncalendar
+SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 4
+DTSTAMP:20261119T143407Z
+DTSTART:20270227T190000Z
+DTEND:20270227T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
+	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay\n\nℹ️ More info about this show: https://eurovisionworld.com/national/s
+	weden/melodifestivalen-2027#heat-4
+URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-
+	4
+LOCATION:Sweden
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
+	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
+	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
+	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
+	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
+	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionwor
+	ld.com/national/sweden/melodifestivalen-2027#heat-4" target="_blank">https
+	://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-4</a></p
+	></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1546@eurovisioncalendar
+SUMMARY:🇸🇪 Sweden | Melodifestivalen Heat 5
+DTSTAMP:20261119T143407Z
+DTSTART:20270306T190000Z
+DTEND:20270306T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
+	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay\n\nℹ️ More info about this show: https://eurovisionworld.com/national/s
+	weden/melodifestivalen-2027#heat-5
+URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-
+	5
+LOCATION:Sweden
+CATEGORIES:Eurovision,National Final,Semi-final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
+	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
+	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
+	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
+	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
+	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionwor
+	ld.com/national/sweden/melodifestivalen-2027#heat-5" target="_blank">https
+	://eurovisionworld.com/national/sweden/melodifestivalen-2027#heat-5</a></p
+	></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1570@eurovisioncalendar
+SUMMARY:🇵🇹 Portugal | Festival da Canção 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270306T200000Z
+DTEND:20270306T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.rtp.pt/play/direto/
+	rtp1\nhttps://www.rtp.pt/play/direto/rtpinternacional\nhttps://apps.apple.
+	com/app/rtp-play/id923424585\nhttps://play.google.com/store/apps/details?i
+	d=pt.rtp.play\n\nℹ️ More info about this show: https://eurovisionworld.com/
+	national/portugal/festival-da-cancao-2027
+URL:https://eurovisionworld.com/national/portugal/festival-da-cancao-2027
+LOCATION:Portugal
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.rtp.pt/play/direto/rtp1"
+	 target="_blank">https://www.rtp.pt/play/direto/rtp1</a><br><a href="https
+	://www.rtp.pt/play/direto/rtpinternacional" target="_blank">https://www.rt
+	p.pt/play/direto/rtpinternacional</a><br><a href="https://apps.apple.com/a
+	pp/rtp-play/id923424585" target="_blank">https://apps.apple.com/app/rtp-pl
+	ay/id923424585</a><br><a href="https://play.google.com/store/apps/details?
+	id=pt.rtp.play" target="_blank">https://play.google.com/store/apps/details
+	?id=pt.rtp.play</a><br><br>ℹ️ More info about this show: <a href="https://e
+	urovisionworld.com/national/portugal/festival-da-cancao-2027" target="_bla
+	nk">https://eurovisionworld.com/national/portugal/festival-da-cancao-2027<
+	/a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1536@eurovisioncalendar
+SUMMARY:🇸🇲 San Marino | San Marino Song Contest 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270306T200000Z
+DTEND:20270306T200000Z
+DESCRIPTION:⚠️ WARNING: This event's start time is unknown!\n\n📺 Watch throu
+	gh the broadcaster's official channel(s):\nhttps://www.sanmarinortv.sm/pro
+	grammi/web-tv\n\nℹ️ More info about this show: https://eurovisionworld.com/
+	national/san-marino/2027#final
+URL:https://eurovisionworld.com/national/san-marino/2027#final
+LOCATION:San Marino
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p><b>⚠️ WARNING</b>
+	: This event's start time is unknown!<br><br>📺 Watch through the broadcast
+	er's official channel(s):<br><a href="https://www.sanmarinortv.sm/programm
+	i/web-tv" target="_blank">https://www.sanmarinortv.sm/programmi/web-tv</a>
+	<br><br>ℹ️ More info about this show: <a href="https://eurovisionworld.com/
+	national/san-marino/2027#final" target="_blank">https://eurovisionworld.co
+	m/national/san-marino/2027#final</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1539@eurovisioncalendar
+SUMMARY:🇸🇪 Sweden | Melodifestivalen 2027 (FINAL)
+DTSTAMP:20261119T143407Z
+DTSTART:20270313T190000Z
+DTEND:20270313T190000Z
+DESCRIPTION:📺 Watch through the broadcaster's official channel(s):\nhttps:/
+	/www.svtplay.se/melodifestivalen\nhttps://apps.apple.com/app/svt-play/id34
+	3544214\nhttps://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay\n\nℹ️ More info about this show: https://eurovisionworld.com/national/s
+	weden/melodifestivalen-2027#final
+URL:https://eurovisionworld.com/national/sweden/melodifestivalen-2027#final
+LOCATION:Sweden
+CATEGORIES:Eurovision,National Final,Final
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>📺 Watch through 
+	the broadcaster's official channel(s):<br><a href="https://www.svtplay.se/
+	melodifestivalen" target="_blank">https://www.svtplay.se/melodifestivalen<
+	/a><br><a href="https://apps.apple.com/app/svt-play/id343544214" target="_
+	blank">https://apps.apple.com/app/svt-play/id343544214</a><br><a href="htt
+	ps://play.google.com/store/apps/details?id=se.svt.android.svtplay" target=
+	"_blank">https://play.google.com/store/apps/details?id=se.svt.android.svtp
+	lay</a><br><br>ℹ️ More info about this show: <a href="https://eurovisionwor
+	ld.com/national/sweden/melodifestivalen-2027#final" target="_blank">https:
+	//eurovisionworld.com/national/sweden/melodifestivalen-2027#final</a></p><
+	/body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1518@eurovisioncalendar
+SUMMARY:Eurovision Song Contest 2027 Semi-final 1
+DTSTAMP:20261119T143407Z
+DTSTART:20270511T190000Z
+DTEND:20270511T190000Z
+DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
+	sion/2027/semi-final
+URL:https://eurovisionworld.com/eurovision/2027/semi-final
+CATEGORIES:Eurovision,EBU Event
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>ℹ️ More info abou
+	t this show: <a href="https://eurovisionworld.com/eurovision/2027/semi-fin
+	al" target="_blank">https://eurovisionworld.com/eurovision/2027/semi-final
+	</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1519@eurovisioncalendar
+SUMMARY:Eurovision Song Contest 2027 Semi-final 2
+DTSTAMP:20261119T143407Z
+DTSTART:20270513T190000Z
+DTEND:20270513T190000Z
+DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
+	sion/2027/semi-final
+URL:https://eurovisionworld.com/eurovision/2027/semi-final
+CATEGORIES:Eurovision,EBU Event
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>ℹ️ More info abou
+	t this show: <a href="https://eurovisionworld.com/eurovision/2027/semi-fin
+	al" target="_blank">https://eurovisionworld.com/eurovision/2027/semi-final
+	</a></p></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:1520@eurovisioncalendar
+SUMMARY:Eurovision Song Contest 2027 Grand Final
+DTSTAMP:20261119T143407Z
+DTSTART:20270515T190000Z
+DTEND:20270515T190000Z
+DESCRIPTION:ℹ️ More info about this show: https://eurovisionworld.com/eurovi
+	sion/2027
+URL:https://eurovisionworld.com/eurovision/2027
+CATEGORIES:Eurovision,EBU Event
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body><p>ℹ️ More info abou
+	t this show: <a href="https://eurovisionworld.com/eurovision/2027" target=
+	"_blank">https://eurovisionworld.com/eurovision/2027</a></p></body></html>
+END:VEVENT
+END:VCALENDAR
