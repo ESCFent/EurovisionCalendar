@@ -52,12 +52,8 @@ for (const month of document.querySelectorAll(".calendar_table tbody[data-cal-mo
                     if (!event.querySelector(".cal_c_bold")) categories.push("Semi-final");
 
                     description.push(`📺 Watch through the broadcaster's official channel(s):
-${livestreams.livestream.map(el => el.url).join("\n")}
-
-🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent Live:
-https://youtube.com/@ESCFentLive (w/ all additional feeds!)
-https://twitch.tv/ESCFentLive`);
-                    htmlContent.push(`📺 Watch through the broadcaster's official channel(s):<br>${livestreams.livestream.map(el => `<a href="${el.url}" target="_blank">${el.url}</a>`).join("<br>")}<br><br>🌐 Or, without geoblocking, on YouTube and Twitch, on ESC Fent Live:<br>https://youtube.com/@ESCFentLive (w/ all additional feeds!)<br>https://twitch.tv/ESCFentLive`);
+${livestreams.livestream.map(el => el.url).join("\n")}`);
+                    htmlContent.push(`📺 Watch through the broadcaster's official channel(s):<br>${livestreams.livestream.map(el => `<a href="${el.url}" target="_blank">${el.url}</a>`).join("<br>")}`);
                 };
             };
             if (event.querySelector(".cal_c_bold")) {
